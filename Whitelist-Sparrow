@@ -310,3 +310,5 @@ zone
 firewall.sh
 raw.githubusercontent.com/Adamm00/IPSet_ASUS/08d0c3e47a96d843dba8e33101b6644eb8205cee/firewall.sh
 www.speedguide.net/port.php?port
+otx.alienvault.com/indicator/ip
+asn.ipinfo.app/api/text/list/$asnlist
