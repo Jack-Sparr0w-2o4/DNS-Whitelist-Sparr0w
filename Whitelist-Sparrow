@@ -313,7 +313,6 @@ otx.alienvault.com/indicator/ip
 asn.ipinfo.app/api/text/list/$asnlist
 unbound.conf
 nsc1.nr.wp.shawcable.net
-asp
 rpz.urlhaus.abuse.ch
 githubusercontent.com
 192.168.50.1
@@ -322,3 +321,5 @@ google.com
 alienvault.com
 entware.net
 asus.com
+api.db-ip.com
+skynet.asp
