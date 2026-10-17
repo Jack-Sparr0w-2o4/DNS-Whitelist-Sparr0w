@@ -268,8 +268,8 @@ ipapi.co
 use-application-dns.net
 siteX.com
 root-servers.org
-www.iana.org/domains/root/servers
-www.internic.net/domain/named.cache
+iana.org/domains/root/servers
+internic.net/domain/named.cache
 qnamemintest.internet.nl
 root-servers.org/
 cmdns.dev.dns-oarc.net
@@ -277,8 +277,8 @@ cmdns.dev.dns-oarc.net
 www.quad9.net
 rootcanary.org
 dnsviz.net
-www.nrsforu.com
-www.snbforums.com
+nrsforu.com
+snbforums.com
 api.nordvpn.com
 youtube.com
 nc-mqtt.nordvpn.com
