@@ -271,7 +271,7 @@ root-servers.org
 iana.org/domains/root/servers
 internic.net/domain/named.cache
 qnamemintest.internet.nl
-root-servers.org/
+root-servers.org
 cmdns.dev.dns-oarc.net
 1.1.1.1
 www.quad9.net
